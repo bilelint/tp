@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tstt
+=======
+ms2
+>>>>>>> branch_exam
